@@ -1,0 +1,12 @@
+{
+  "bias_level": "moderate",
+  "bias_score": 33.65853658536585,
+  "key_findings": [
+    "Gender representation is imbalanced: 32.9% male, 67.1% female",
+    "Found 2 age-gender bias patterns"
+  ],
+  "recommendations": [
+    "Monitor model performance across demographic groups",
+    "Consider data augmentation for underrepresented groups"
+  ]
+}

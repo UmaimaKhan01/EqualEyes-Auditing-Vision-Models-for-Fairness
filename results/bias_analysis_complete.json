@@ -1,0 +1,213 @@
+{
+  "representation_ratio": {
+    "total_faces": 82,
+    "male_count": 27,
+    "female_count": 55,
+    "male_percentage": 32.926829268292686,
+    "female_percentage": 67.07317073170732,
+    "representation_ratio": 0.4909090909090909,
+    "is_balanced": "False"
+  },
+  "confidence_distribution": {
+    "male": {
+      "count": 27,
+      "mean": 0.9247934641661467,
+      "median": 0.9597585201263428,
+      "std": 0.0900133817915438,
+      "min": 0.7131655216217041,
+      "max": 0.9947665929794312,
+      "q25": 0.884988933801651,
+      "q75": 0.9923994541168214
+    },
+    "female": {
+      "count": 55,
+      "mean": 0.941449172930284,
+      "median": 0.9873063564300536,
+      "std": 0.08245475272598685,
+      "min": 0.7030625343322754,
+      "max": 0.9963920712471008,
+      "q25": 0.9124815165996552,
+      "q75": 0.9938214719295502
+    },
+    "statistical_test": {
+      "test": "independent_t_test",
+      "t_statistic": -0.8340205233644701,
+      "p_value": 0.406752862820959,
+      "significant_difference": "False",
+      "interpretation": "No significant difference"
+    }
+  },
+  "age_gender_intersection": {
+    "crosstab_counts": {
+      "female": {
+        "0-2": 2,
+        "10-19": 3,
+        "20-29": 32,
+        "3-9": 11,
+        "30-39": 3,
+        "40-49": 1,
+        "50-59": 1,
+        "60-69": 2,
+        "All": 55
+      },
+      "male": {
+        "0-2": 0,
+        "10-19": 0,
+        "20-29": 11,
+        "3-9": 6,
+        "30-39": 5,
+        "40-49": 3,
+        "50-59": 1,
+        "60-69": 1,
+        "All": 27
+      },
+      "All": {
+        "0-2": 2,
+        "10-19": 3,
+        "20-29": 43,
+        "3-9": 17,
+        "30-39": 8,
+        "40-49": 4,
+        "50-59": 2,
+        "60-69": 3,
+        "All": 82
+      }
+    },
+    "crosstab_percentages": {
+      "female": {
+        "0-2": 2.4390243902439024,
+        "10-19": 3.6585365853658534,
+        "20-29": 39.02439024390244,
+        "3-9": 13.414634146341465,
+        "30-39": 3.6585365853658534,
+        "40-49": 1.2195121951219512,
+        "50-59": 1.2195121951219512,
+        "60-69": 2.4390243902439024,
+        "All": 67.07317073170732
+      },
+      "male": {
+        "0-2": 0.0,
+        "10-19": 0.0,
+        "20-29": 13.414634146341465,
+        "3-9": 7.317073170731707,
+        "30-39": 6.097560975609756,
+        "40-49": 3.6585365853658534,
+        "50-59": 1.2195121951219512,
+        "60-69": 1.2195121951219512,
+        "All": 32.926829268292686
+      },
+      "All": {
+        "0-2": 2.4390243902439024,
+        "10-19": 3.6585365853658534,
+        "20-29": 52.4390243902439,
+        "3-9": 20.73170731707317,
+        "30-39": 9.75609756097561,
+        "40-49": 4.878048780487805,
+        "50-59": 2.4390243902439024,
+        "60-69": 3.6585365853658534,
+        "All": 100.0
+      }
+    },
+    "bias_patterns": [
+      {
+        "age_range": "20-29",
+        "male_percentage": 25.581395348837212,
+        "female_percentage": 74.4186046511628,
+        "bias_direction": "female",
+        "severity": "high"
+      },
+      {
+        "age_range": "3-9",
+        "male_percentage": 35.294117647058826,
+        "female_percentage": 64.70588235294117,
+        "bias_direction": "female",
+        "severity": "moderate"
+      }
+    ],
+    "has_age_gender_bias": true
+  },
+  "demographic_distribution": {
+    "gender": {
+      "female": 55,
+      "male": 27
+    },
+    "age": {
+      "20-29": 43,
+      "3-9": 17,
+      "30-39": 8,
+      "40-49": 4,
+      "10-19": 3,
+      "60-69": 3,
+      "0-2": 2,
+      "50-59": 2
+    },
+    "face_area_stats": {
+      "mean": 4698.475609756098,
+      "median": 2810.0,
+      "std": 7283.677853069767,
+      "quartiles": [
+        1296.0,
+        2810.0,
+        4455.75
+      ]
+    },
+    "detection_confidence_stats": {
+      "mean": 0.9000000000000004,
+      "median": 0.9,
+      "std": 3.351165692402871e-16,
+      "quartiles": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    }
+  },
+  "model_bias_patterns": {
+    "confidence_bias": {
+      "male_avg_confidence": 0.9247934641661467,
+      "female_avg_confidence": 0.941449172930284,
+      "confidence_gap": -0.016655708764137245,
+      "potential_bias": "False"
+    },
+    "face_size_bias": {
+      "male_avg_face_area": 4473.592592592592,
+      "female_avg_face_area": 4808.872727272727,
+      "face_area_gap": -335.28013468013523,
+      "potential_bias": "False"
+    },
+    "detection_confidence_bias": {
+      "male_avg_detection_conf": 0.8999999999999999,
+      "female_avg_detection_conf": 0.8999999999999999,
+      "detection_conf_gap": 0.0,
+      "potential_bias": "False"
+    }
+  },
+  "bias_assessment": {
+    "overall_bias_score": 33.65853658536585,
+    "max_possible_score": 100,
+    "bias_percentage": 33.65853658536585,
+    "bias_level": "moderate",
+    "bias_indicators": [
+      {
+        "type": "representation_imbalance",
+        "severity": "moderate",
+        "description": "Gender representation is imbalanced: 32.9% male, 67.1% female"
+      },
+      {
+        "type": "age_gender_intersection_bias",
+        "severity": "moderate",
+        "description": "Found 2 age-gender bias patterns"
+      }
+    ],
+    "recommendations": [
+      "Monitor model performance across demographic groups",
+      "Consider data augmentation for underrepresented groups"
+    ]
+  },
+  "metadata": {
+    "analysis_date": "2025-10-26T04:01:22.553090",
+    "total_faces_analyzed": 82,
+    "dataset_source": "flickr",
+    "confidence_threshold": 0.7
+  }
+}

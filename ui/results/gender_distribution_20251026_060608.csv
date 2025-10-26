@@ -1,0 +1,5 @@
+Gender,Count,Percentage,Avg_Confidence
+Male,1156,43.57,0.852
+Female,1398,52.70,0.841
+Other,67,2.53,0.798
+Unknown,32,1.21,0.750

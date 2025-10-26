@@ -1,0 +1,66 @@
+{
+  "report_metadata": {
+    "generated_date": "2025-10-26T04:33:49.341585",
+    "analysis_period": "2025-10-26",
+    "total_analyses": 1,
+    "compliance_frameworks": [
+      "EU_AI_ACT",
+      "GDPR",
+      "IEEE_2857"
+    ]
+  },
+  "executive_summary": {
+    "overall_compliance_status": "COMPLIANT",
+    "average_bias_score": 0.0,
+    "maximum_bias_detected": 0,
+    "risk_level": "MINIMAL",
+    "high_risk_incidents": 0,
+    "compliance_percentage": 100.0
+  },
+  "detailed_findings": {},
+  "risk_matrix": {
+    "high_probability_high_impact": 0,
+    "high_probability_low_impact": 0,
+    "low_probability_high_impact": 0,
+    "low_probability_low_impact": 1
+  },
+  "recommendations": [
+    "Maintain current bias monitoring",
+    "Continue regular compliance reviews"
+  ],
+  "audit_trail": [
+    {
+      "timestamp": "2025-10-26T04:33:49.341789",
+      "analysis_type": "bias_detection",
+      "results_count": 1,
+      "status": "completed"
+    }
+  ],
+  "regulatory_assessment": {
+    "EU_AI_ACT": {
+      "overall_compliance": true,
+      "risk_distribution": {
+        "unacceptable": 0,
+        "high": 0,
+        "limited": 0,
+        "minimal": 1
+      },
+      "required_actions": [],
+      "documentation_status": "complete",
+      "human_oversight_required": false
+    },
+    "GDPR": {
+      "data_protection_compliant": true,
+      "explainability_score": 0.8,
+      "automated_decision_impact": "moderate",
+      "consent_management": "implemented",
+      "data_minimization": "compliant"
+    },
+    "IEEE_2857": {
+      "fairness_threshold_met": "True",
+      "demographic_parity": "True",
+      "equalized_odds": "True",
+      "bias_mitigation_required": "False"
+    }
+  }
+}

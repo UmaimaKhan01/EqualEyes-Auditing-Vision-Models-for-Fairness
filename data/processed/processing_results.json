@@ -1,0 +1,3626 @@
+[
+  {
+    "photo_id": "flickr30k_000003",
+    "original_path": "data/raw/images/flickr30k_000003.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000007",
+    "original_path": "data/raw/images/flickr30k_000007.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000007_face_0",
+        "face_path": "data/processed/faces/flickr30k_000007_face_0.jpg",
+        "bbox": [
+          "251",
+          "66",
+          "54",
+          "54"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2916"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      335,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000006",
+    "original_path": "data/raw/images/flickr30k_000006.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000008",
+    "original_path": "data/raw/images/flickr30k_000008.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000008_face_0",
+        "face_path": "data/processed/faces/flickr30k_000008_face_0.jpg",
+        "bbox": [
+          "118",
+          "30",
+          "32",
+          "32"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1024"
+      },
+      {
+        "face_id": "flickr30k_000008_face_1",
+        "face_path": "data/processed/faces/flickr30k_000008_face_1.jpg",
+        "bbox": [
+          "29",
+          "232",
+          "30",
+          "30"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "900"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      500,
+      330,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000000",
+    "original_path": "data/raw/images/flickr30k_000000.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000002",
+    "original_path": "data/raw/images/flickr30k_000002.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000010",
+    "original_path": "data/raw/images/flickr30k_000010.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000009",
+    "original_path": "data/raw/images/flickr30k_000009.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      230,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000005",
+    "original_path": "data/raw/images/flickr30k_000005.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000005_face_0",
+        "face_path": "data/processed/faces/flickr30k_000005_face_0.jpg",
+        "bbox": [
+          "280",
+          "77",
+          "59",
+          "59"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3481"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000013",
+    "original_path": "data/raw/images/flickr30k_000013.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      351,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000018",
+    "original_path": "data/raw/images/flickr30k_000018.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000015",
+    "original_path": "data/raw/images/flickr30k_000015.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000015_face_0",
+        "face_path": "data/processed/faces/flickr30k_000015_face_0.jpg",
+        "bbox": [
+          "180",
+          "48",
+          "61",
+          "61"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3721"
+      },
+      {
+        "face_id": "flickr30k_000015_face_1",
+        "face_path": "data/processed/faces/flickr30k_000015_face_1.jpg",
+        "bbox": [
+          "390",
+          "249",
+          "52",
+          "52"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2704"
+      },
+      {
+        "face_id": "flickr30k_000015_face_2",
+        "face_path": "data/processed/faces/flickr30k_000015_face_2.jpg",
+        "bbox": [
+          "390",
+          "267",
+          "50",
+          "50"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2500"
+      }
+    ],
+    "total_faces": 3,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000019",
+    "original_path": "data/raw/images/flickr30k_000019.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000020",
+    "original_path": "data/raw/images/flickr30k_000020.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000017",
+    "original_path": "data/raw/images/flickr30k_000017.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      410,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000016",
+    "original_path": "data/raw/images/flickr30k_000016.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000016_face_0",
+        "face_path": "data/processed/faces/flickr30k_000016_face_0.jpg",
+        "bbox": [
+          "145",
+          "264",
+          "34",
+          "34"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1156"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      400,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000022",
+    "original_path": "data/raw/images/flickr30k_000022.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000022_face_0",
+        "face_path": "data/processed/faces/flickr30k_000022_face_0.jpg",
+        "bbox": [
+          "68",
+          "251",
+          "84",
+          "84"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "7056"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      354,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000011",
+    "original_path": "data/raw/images/flickr30k_000011.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000011_face_0",
+        "face_path": "data/processed/faces/flickr30k_000011_face_0.jpg",
+        "bbox": [
+          "217",
+          "199",
+          "54",
+          "54"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2916"
+      },
+      {
+        "face_id": "flickr30k_000011_face_1",
+        "face_path": "data/processed/faces/flickr30k_000011_face_1.jpg",
+        "bbox": [
+          "93",
+          "208",
+          "37",
+          "37"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1369"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      335,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000027",
+    "original_path": "data/raw/images/flickr30k_000027.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000023",
+    "original_path": "data/raw/images/flickr30k_000023.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000021",
+    "original_path": "data/raw/images/flickr30k_000021.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000021_face_0",
+        "face_path": "data/processed/faces/flickr30k_000021_face_0.jpg",
+        "bbox": [
+          "303",
+          "92",
+          "54",
+          "54"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2916"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000026",
+    "original_path": "data/raw/images/flickr30k_000026.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      331,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000030",
+    "original_path": "data/raw/images/flickr30k_000030.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000030_face_0",
+        "face_path": "data/processed/faces/flickr30k_000030_face_0.jpg",
+        "bbox": [
+          "39",
+          "14",
+          "86",
+          "86"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "7396"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      338,
+      450,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000031",
+    "original_path": "data/raw/images/flickr30k_000031.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000031_face_0",
+        "face_path": "data/processed/faces/flickr30k_000031_face_0.jpg",
+        "bbox": [
+          "234",
+          "36",
+          "57",
+          "57"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3249"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      450,
+      450,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000029",
+    "original_path": "data/raw/images/flickr30k_000029.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      355,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000025",
+    "original_path": "data/raw/images/flickr30k_000025.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      461,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000032",
+    "original_path": "data/raw/images/flickr30k_000032.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000028",
+    "original_path": "data/raw/images/flickr30k_000028.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000028_face_0",
+        "face_path": "data/processed/faces/flickr30k_000028_face_0.jpg",
+        "bbox": [
+          "199",
+          "35",
+          "82",
+          "82"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "6724"
+      },
+      {
+        "face_id": "flickr30k_000028_face_1",
+        "face_path": "data/processed/faces/flickr30k_000028_face_1.jpg",
+        "bbox": [
+          "82",
+          "59",
+          "72",
+          "72"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "5184"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000033",
+    "original_path": "data/raw/images/flickr30k_000033.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000033_face_0",
+        "face_path": "data/processed/faces/flickr30k_000033_face_0.jpg",
+        "bbox": [
+          "298",
+          "123",
+          "58",
+          "58"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3364"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      338,
+      450,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000039",
+    "original_path": "data/raw/images/flickr30k_000039.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000036",
+    "original_path": "data/raw/images/flickr30k_000036.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      261,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000038",
+    "original_path": "data/raw/images/flickr30k_000038.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      334,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000024",
+    "original_path": "data/raw/images/flickr30k_000024.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000041",
+    "original_path": "data/raw/images/flickr30k_000041.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000035",
+    "original_path": "data/raw/images/flickr30k_000035.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000043",
+    "original_path": "data/raw/images/flickr30k_000043.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000049",
+    "original_path": "data/raw/images/flickr30k_000049.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000049_face_0",
+        "face_path": "data/processed/faces/flickr30k_000049_face_0.jpg",
+        "bbox": [
+          "253",
+          "146",
+          "70",
+          "70"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4900"
+      },
+      {
+        "face_id": "flickr30k_000049_face_1",
+        "face_path": "data/processed/faces/flickr30k_000049_face_1.jpg",
+        "bbox": [
+          "151",
+          "156",
+          "60",
+          "60"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3600"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      440,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000042",
+    "original_path": "data/raw/images/flickr30k_000042.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000042_face_0",
+        "face_path": "data/processed/faces/flickr30k_000042_face_0.jpg",
+        "bbox": [
+          "10",
+          "4",
+          "145",
+          "145"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "21025"
+      },
+      {
+        "face_id": "flickr30k_000042_face_1",
+        "face_path": "data/processed/faces/flickr30k_000042_face_1.jpg",
+        "bbox": [
+          "327",
+          "102",
+          "143",
+          "143"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "20449"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000051",
+    "original_path": "data/raw/images/flickr30k_000051.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      347,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000044",
+    "original_path": "data/raw/images/flickr30k_000044.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000040",
+    "original_path": "data/raw/images/flickr30k_000040.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      332,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000048",
+    "original_path": "data/raw/images/flickr30k_000048.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000053",
+    "original_path": "data/raw/images/flickr30k_000053.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      335,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000056",
+    "original_path": "data/raw/images/flickr30k_000056.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000056_face_0",
+        "face_path": "data/processed/faces/flickr30k_000056_face_0.jpg",
+        "bbox": [
+          "217",
+          "81",
+          "51",
+          "51"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2601"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000052",
+    "original_path": "data/raw/images/flickr30k_000052.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000052_face_0",
+        "face_path": "data/processed/faces/flickr30k_000052_face_0.jpg",
+        "bbox": [
+          "62",
+          "6",
+          "47",
+          "47"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2209"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000058",
+    "original_path": "data/raw/images/flickr30k_000058.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000055",
+    "original_path": "data/raw/images/flickr30k_000055.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000055_face_0",
+        "face_path": "data/processed/faces/flickr30k_000055_face_0.jpg",
+        "bbox": [
+          "266",
+          "125",
+          "55",
+          "55"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3025"
+      },
+      {
+        "face_id": "flickr30k_000055_face_1",
+        "face_path": "data/processed/faces/flickr30k_000055_face_1.jpg",
+        "bbox": [
+          "174",
+          "117",
+          "29",
+          "29"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "841"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000061",
+    "original_path": "data/raw/images/flickr30k_000061.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      429,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000050",
+    "original_path": "data/raw/images/flickr30k_000050.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000059",
+    "original_path": "data/raw/images/flickr30k_000059.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      368,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000062",
+    "original_path": "data/raw/images/flickr30k_000062.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000062_face_0",
+        "face_path": "data/processed/faces/flickr30k_000062_face_0.jpg",
+        "bbox": [
+          "59",
+          "134",
+          "52",
+          "52"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2704"
+      },
+      {
+        "face_id": "flickr30k_000062_face_1",
+        "face_path": "data/processed/faces/flickr30k_000062_face_1.jpg",
+        "bbox": [
+          "24",
+          "178",
+          "50",
+          "50"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2500"
+      },
+      {
+        "face_id": "flickr30k_000062_face_2",
+        "face_path": "data/processed/faces/flickr30k_000062_face_2.jpg",
+        "bbox": [
+          "232",
+          "124",
+          "39",
+          "39"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1521"
+      },
+      {
+        "face_id": "flickr30k_000062_face_3",
+        "face_path": "data/processed/faces/flickr30k_000062_face_3.jpg",
+        "bbox": [
+          "123",
+          "147",
+          "36",
+          "36"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1296"
+      }
+    ],
+    "total_faces": 4,
+    "image_shape": [
+      500,
+      332,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000064",
+    "original_path": "data/raw/images/flickr30k_000064.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000054",
+    "original_path": "data/raw/images/flickr30k_000054.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      338,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000066",
+    "original_path": "data/raw/images/flickr30k_000066.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000066_face_0",
+        "face_path": "data/processed/faces/flickr30k_000066_face_0.jpg",
+        "bbox": [
+          "362",
+          "201",
+          "41",
+          "41"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1681"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000063",
+    "original_path": "data/raw/images/flickr30k_000063.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      357,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000060",
+    "original_path": "data/raw/images/flickr30k_000060.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000046",
+    "original_path": "data/raw/images/flickr30k_000046.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000069",
+    "original_path": "data/raw/images/flickr30k_000069.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000069_face_0",
+        "face_path": "data/processed/faces/flickr30k_000069_face_0.jpg",
+        "bbox": [
+          "159",
+          "186",
+          "64",
+          "64"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4096"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000067",
+    "original_path": "data/raw/images/flickr30k_000067.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000071",
+    "original_path": "data/raw/images/flickr30k_000071.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000071_face_0",
+        "face_path": "data/processed/faces/flickr30k_000071_face_0.jpg",
+        "bbox": [
+          "275",
+          "207",
+          "49",
+          "49"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2401"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000073",
+    "original_path": "data/raw/images/flickr30k_000073.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000068",
+    "original_path": "data/raw/images/flickr30k_000068.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000068_face_0",
+        "face_path": "data/processed/faces/flickr30k_000068_face_0.jpg",
+        "bbox": [
+          "282",
+          "199",
+          "71",
+          "71"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "5041"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000083",
+    "status": "load_failed",
+    "faces": []
+  },
+  {
+    "photo_id": "flickr30k_000076",
+    "original_path": "data/raw/images/flickr30k_000076.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000076_face_0",
+        "face_path": "data/processed/faces/flickr30k_000076_face_0.jpg",
+        "bbox": [
+          "160",
+          "70",
+          "83",
+          "83"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "6889"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000080",
+    "original_path": "data/raw/images/flickr30k_000080.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000078",
+    "original_path": "data/raw/images/flickr30k_000078.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000079",
+    "original_path": "data/raw/images/flickr30k_000079.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000085",
+    "original_path": "data/raw/images/flickr30k_000085.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000087",
+    "original_path": "data/raw/images/flickr30k_000087.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000088",
+    "original_path": "data/raw/images/flickr30k_000088.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000088_face_0",
+        "face_path": "data/processed/faces/flickr30k_000088_face_0.jpg",
+        "bbox": [
+          "207",
+          "80",
+          "35",
+          "35"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1225"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      396,
+      420,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000089",
+    "original_path": "data/raw/images/flickr30k_000089.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000092",
+    "original_path": "data/raw/images/flickr30k_000092.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000092_face_0",
+        "face_path": "data/processed/faces/flickr30k_000092_face_0.jpg",
+        "bbox": [
+          "29",
+          "115",
+          "33",
+          "33"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1089"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000065",
+    "original_path": "data/raw/images/flickr30k_000065.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000065_face_0",
+        "face_path": "data/processed/faces/flickr30k_000065_face_0.jpg",
+        "bbox": [
+          "20",
+          "451",
+          "31",
+          "31"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "961"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      348,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000093",
+    "original_path": "data/raw/images/flickr30k_000093.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000086",
+    "original_path": "data/raw/images/flickr30k_000086.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000091",
+    "original_path": "data/raw/images/flickr30k_000091.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000095",
+    "original_path": "data/raw/images/flickr30k_000095.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000095_face_0",
+        "face_path": "data/processed/faces/flickr30k_000095_face_0.jpg",
+        "bbox": [
+          "118",
+          "280",
+          "34",
+          "34"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1156"
+      },
+      {
+        "face_id": "flickr30k_000095_face_1",
+        "face_path": "data/processed/faces/flickr30k_000095_face_1.jpg",
+        "bbox": [
+          "337",
+          "147",
+          "33",
+          "33"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1089"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000094",
+    "original_path": "data/raw/images/flickr30k_000094.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      292,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000101",
+    "original_path": "data/raw/images/flickr30k_000101.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000101_face_0",
+        "face_path": "data/processed/faces/flickr30k_000101_face_0.jpg",
+        "bbox": [
+          "242",
+          "146",
+          "30",
+          "30"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "900"
+      },
+      {
+        "face_id": "flickr30k_000101_face_1",
+        "face_path": "data/processed/faces/flickr30k_000101_face_1.jpg",
+        "bbox": [
+          "29",
+          "103",
+          "29",
+          "29"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "841"
+      },
+      {
+        "face_id": "flickr30k_000101_face_2",
+        "face_path": "data/processed/faces/flickr30k_000101_face_2.jpg",
+        "bbox": [
+          "57",
+          "127",
+          "27",
+          "27"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "729"
+      }
+    ],
+    "total_faces": 3,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000102",
+    "original_path": "data/raw/images/flickr30k_000102.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000102_face_0",
+        "face_path": "data/processed/faces/flickr30k_000102_face_0.jpg",
+        "bbox": [
+          "84",
+          "182",
+          "62",
+          "62"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3844"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      358,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000098",
+    "original_path": "data/raw/images/flickr30k_000098.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000098_face_0",
+        "face_path": "data/processed/faces/flickr30k_000098_face_0.jpg",
+        "bbox": [
+          "87",
+          "141",
+          "79",
+          "79"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "6241"
+      },
+      {
+        "face_id": "flickr30k_000098_face_1",
+        "face_path": "data/processed/faces/flickr30k_000098_face_1.jpg",
+        "bbox": [
+          "142",
+          "148",
+          "59",
+          "59"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3481"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      376,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000100",
+    "original_path": "data/raw/images/flickr30k_000100.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000100_face_0",
+        "face_path": "data/processed/faces/flickr30k_000100_face_0.jpg",
+        "bbox": [
+          "159",
+          "359",
+          "67",
+          "67"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4489"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000103",
+    "original_path": "data/raw/images/flickr30k_000103.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000097",
+    "original_path": "data/raw/images/flickr30k_000097.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000104",
+    "original_path": "data/raw/images/flickr30k_000104.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000104_face_0",
+        "face_path": "data/processed/faces/flickr30k_000104_face_0.jpg",
+        "bbox": [
+          "199",
+          "223",
+          "27",
+          "27"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "729"
+      },
+      {
+        "face_id": "flickr30k_000104_face_1",
+        "face_path": "data/processed/faces/flickr30k_000104_face_1.jpg",
+        "bbox": [
+          "217",
+          "276",
+          "25",
+          "25"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "625"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000108",
+    "original_path": "data/raw/images/flickr30k_000108.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000111",
+    "original_path": "data/raw/images/flickr30k_000111.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000110",
+    "original_path": "data/raw/images/flickr30k_000110.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000099",
+    "original_path": "data/raw/images/flickr30k_000099.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000109",
+    "status": "load_failed",
+    "faces": []
+  },
+  {
+    "photo_id": "flickr30k_000113",
+    "original_path": "data/raw/images/flickr30k_000113.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000106",
+    "original_path": "data/raw/images/flickr30k_000106.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000106_face_0",
+        "face_path": "data/processed/faces/flickr30k_000106_face_0.jpg",
+        "bbox": [
+          "330",
+          "44",
+          "64",
+          "64"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4096"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000115",
+    "original_path": "data/raw/images/flickr30k_000115.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      332,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000118",
+    "original_path": "data/raw/images/flickr30k_000118.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000114",
+    "original_path": "data/raw/images/flickr30k_000114.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000114_face_0",
+        "face_path": "data/processed/faces/flickr30k_000114_face_0.jpg",
+        "bbox": [
+          "84",
+          "152",
+          "65",
+          "65"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4225"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000116",
+    "original_path": "data/raw/images/flickr30k_000116.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000107",
+    "original_path": "data/raw/images/flickr30k_000107.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000117",
+    "original_path": "data/raw/images/flickr30k_000117.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      446,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000119",
+    "original_path": "data/raw/images/flickr30k_000119.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000119_face_0",
+        "face_path": "data/processed/faces/flickr30k_000119_face_0.jpg",
+        "bbox": [
+          "256",
+          "63",
+          "75",
+          "75"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "5625"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000112",
+    "original_path": "data/raw/images/flickr30k_000112.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      405,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000121",
+    "original_path": "data/raw/images/flickr30k_000121.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000121_face_0",
+        "face_path": "data/processed/faces/flickr30k_000121_face_0.jpg",
+        "bbox": [
+          "329",
+          "89",
+          "130",
+          "130"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "16900"
+      },
+      {
+        "face_id": "flickr30k_000121_face_1",
+        "face_path": "data/processed/faces/flickr30k_000121_face_1.jpg",
+        "bbox": [
+          "351",
+          "13",
+          "60",
+          "60"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3600"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000125",
+    "original_path": "data/raw/images/flickr30k_000125.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000124",
+    "original_path": "data/raw/images/flickr30k_000124.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000120",
+    "original_path": "data/raw/images/flickr30k_000120.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000120_face_0",
+        "face_path": "data/processed/faces/flickr30k_000120_face_0.jpg",
+        "bbox": [
+          "181",
+          "14",
+          "63",
+          "63"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3969"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      316,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000127",
+    "original_path": "data/raw/images/flickr30k_000127.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000129",
+    "original_path": "data/raw/images/flickr30k_000129.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000123",
+    "original_path": "data/raw/images/flickr30k_000123.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000122",
+    "original_path": "data/raw/images/flickr30k_000122.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000131",
+    "original_path": "data/raw/images/flickr30k_000131.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000131_face_0",
+        "face_path": "data/processed/faces/flickr30k_000131_face_0.jpg",
+        "bbox": [
+          "223",
+          "66",
+          "101",
+          "101"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "10201"
+      },
+      {
+        "face_id": "flickr30k_000131_face_1",
+        "face_path": "data/processed/faces/flickr30k_000131_face_1.jpg",
+        "bbox": [
+          "311",
+          "57",
+          "87",
+          "87"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "7569"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      326,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000128",
+    "original_path": "data/raw/images/flickr30k_000128.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000133",
+    "original_path": "data/raw/images/flickr30k_000133.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      368,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000135",
+    "original_path": "data/raw/images/flickr30k_000135.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000135_face_0",
+        "face_path": "data/processed/faces/flickr30k_000135_face_0.jpg",
+        "bbox": [
+          "149",
+          "93",
+          "43",
+          "43"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1849"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      434,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000132",
+    "original_path": "data/raw/images/flickr30k_000132.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000137",
+    "original_path": "data/raw/images/flickr30k_000137.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      334,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000136",
+    "original_path": "data/raw/images/flickr30k_000136.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      334,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000126",
+    "original_path": "data/raw/images/flickr30k_000126.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000126_face_0",
+        "face_path": "data/processed/faces/flickr30k_000126_face_0.jpg",
+        "bbox": [
+          "110",
+          "247",
+          "40",
+          "40"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1600"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000134",
+    "original_path": "data/raw/images/flickr30k_000134.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      301,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000138",
+    "original_path": "data/raw/images/flickr30k_000138.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000141",
+    "original_path": "data/raw/images/flickr30k_000141.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      493,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000139",
+    "original_path": "data/raw/images/flickr30k_000139.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000140",
+    "original_path": "data/raw/images/flickr30k_000140.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000140_face_0",
+        "face_path": "data/processed/faces/flickr30k_000140_face_0.jpg",
+        "bbox": [
+          "366",
+          "32",
+          "36",
+          "36"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1296"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000142",
+    "original_path": "data/raw/images/flickr30k_000142.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000142_face_0",
+        "face_path": "data/processed/faces/flickr30k_000142_face_0.jpg",
+        "bbox": [
+          "267",
+          "280",
+          "31",
+          "31"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "961"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000143",
+    "original_path": "data/raw/images/flickr30k_000143.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      400,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000146",
+    "original_path": "data/raw/images/flickr30k_000146.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000146_face_0",
+        "face_path": "data/processed/faces/flickr30k_000146_face_0.jpg",
+        "bbox": [
+          "59",
+          "115",
+          "232",
+          "232"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "53824"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000144",
+    "original_path": "data/raw/images/flickr30k_000144.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      343,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000147",
+    "original_path": "data/raw/images/flickr30k_000147.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000147_face_0",
+        "face_path": "data/processed/faces/flickr30k_000147_face_0.jpg",
+        "bbox": [
+          "108",
+          "63",
+          "43",
+          "43"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1849"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      340,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000145",
+    "original_path": "data/raw/images/flickr30k_000145.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000145_face_0",
+        "face_path": "data/processed/faces/flickr30k_000145_face_0.jpg",
+        "bbox": [
+          "26",
+          "234",
+          "50",
+          "50"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2500"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000151",
+    "original_path": "data/raw/images/flickr30k_000151.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000150",
+    "original_path": "data/raw/images/flickr30k_000150.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000130",
+    "original_path": "data/raw/images/flickr30k_000130.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000148",
+    "original_path": "data/raw/images/flickr30k_000148.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000155",
+    "original_path": "data/raw/images/flickr30k_000155.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      360,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000156",
+    "original_path": "data/raw/images/flickr30k_000156.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000156_face_0",
+        "face_path": "data/processed/faces/flickr30k_000156_face_0.jpg",
+        "bbox": [
+          "87",
+          "119",
+          "65",
+          "65"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4225"
+      },
+      {
+        "face_id": "flickr30k_000156_face_1",
+        "face_path": "data/processed/faces/flickr30k_000156_face_1.jpg",
+        "bbox": [
+          "342",
+          "106",
+          "58",
+          "58"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3364"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      363,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000154",
+    "original_path": "data/raw/images/flickr30k_000154.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000153",
+    "original_path": "data/raw/images/flickr30k_000153.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000153_face_0",
+        "face_path": "data/processed/faces/flickr30k_000153_face_0.jpg",
+        "bbox": [
+          "235",
+          "84",
+          "48",
+          "48"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2304"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000157",
+    "original_path": "data/raw/images/flickr30k_000157.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000157_face_0",
+        "face_path": "data/processed/faces/flickr30k_000157_face_0.jpg",
+        "bbox": [
+          "378",
+          "66",
+          "28",
+          "28"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "784"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000160",
+    "original_path": "data/raw/images/flickr30k_000160.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000160_face_0",
+        "face_path": "data/processed/faces/flickr30k_000160_face_0.jpg",
+        "bbox": [
+          "142",
+          "195",
+          "37",
+          "37"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1369"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      334,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000158",
+    "original_path": "data/raw/images/flickr30k_000158.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000159",
+    "original_path": "data/raw/images/flickr30k_000159.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000159_face_0",
+        "face_path": "data/processed/faces/flickr30k_000159_face_0.jpg",
+        "bbox": [
+          "353",
+          "7",
+          "52",
+          "52"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2704"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      361,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000161",
+    "original_path": "data/raw/images/flickr30k_000161.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000162",
+    "original_path": "data/raw/images/flickr30k_000162.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000162_face_0",
+        "face_path": "data/processed/faces/flickr30k_000162_face_0.jpg",
+        "bbox": [
+          "142",
+          "47",
+          "83",
+          "83"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "6889"
+      },
+      {
+        "face_id": "flickr30k_000162_face_1",
+        "face_path": "data/processed/faces/flickr30k_000162_face_1.jpg",
+        "bbox": [
+          "264",
+          "63",
+          "74",
+          "74"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "5476"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000152",
+    "original_path": "data/raw/images/flickr30k_000152.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      380,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000168",
+    "original_path": "data/raw/images/flickr30k_000168.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000168_face_0",
+        "face_path": "data/processed/faces/flickr30k_000168_face_0.jpg",
+        "bbox": [
+          "54",
+          "59",
+          "68",
+          "68"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4624"
+      },
+      {
+        "face_id": "flickr30k_000168_face_1",
+        "face_path": "data/processed/faces/flickr30k_000168_face_1.jpg",
+        "bbox": [
+          "184",
+          "126",
+          "45",
+          "45"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2025"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000166",
+    "original_path": "data/raw/images/flickr30k_000166.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      336,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000165",
+    "original_path": "data/raw/images/flickr30k_000165.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000165_face_0",
+        "face_path": "data/processed/faces/flickr30k_000165_face_0.jpg",
+        "bbox": [
+          "168",
+          "225",
+          "54",
+          "54"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2916"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000167",
+    "original_path": "data/raw/images/flickr30k_000167.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000171",
+    "original_path": "data/raw/images/flickr30k_000171.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      402,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000175",
+    "original_path": "data/raw/images/flickr30k_000175.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000169",
+    "original_path": "data/raw/images/flickr30k_000169.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      330,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000176",
+    "original_path": "data/raw/images/flickr30k_000176.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000176_face_0",
+        "face_path": "data/processed/faces/flickr30k_000176_face_0.jpg",
+        "bbox": [
+          "177",
+          "91",
+          "171",
+          "171"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "29241"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000177",
+    "original_path": "data/raw/images/flickr30k_000177.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000174",
+    "original_path": "data/raw/images/flickr30k_000174.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000178",
+    "original_path": "data/raw/images/flickr30k_000178.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000184",
+    "original_path": "data/raw/images/flickr30k_000184.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      338,
+      450,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000179",
+    "original_path": "data/raw/images/flickr30k_000179.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000185",
+    "original_path": "data/raw/images/flickr30k_000185.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000185_face_0",
+        "face_path": "data/processed/faces/flickr30k_000185_face_0.jpg",
+        "bbox": [
+          "312",
+          "198",
+          "26",
+          "26"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "676"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000173",
+    "original_path": "data/raw/images/flickr30k_000173.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000181",
+    "original_path": "data/raw/images/flickr30k_000181.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000186",
+    "original_path": "data/raw/images/flickr30k_000186.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000187",
+    "original_path": "data/raw/images/flickr30k_000187.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000187_face_0",
+        "face_path": "data/processed/faces/flickr30k_000187_face_0.jpg",
+        "bbox": [
+          "83",
+          "60",
+          "103",
+          "103"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "10609"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000189",
+    "original_path": "data/raw/images/flickr30k_000189.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000188",
+    "original_path": "data/raw/images/flickr30k_000188.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000195",
+    "original_path": "data/raw/images/flickr30k_000195.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000191",
+    "original_path": "data/raw/images/flickr30k_000191.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      283,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000190",
+    "original_path": "data/raw/images/flickr30k_000190.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000196",
+    "original_path": "data/raw/images/flickr30k_000196.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000182",
+    "original_path": "data/raw/images/flickr30k_000182.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000182_face_0",
+        "face_path": "data/processed/faces/flickr30k_000182_face_0.jpg",
+        "bbox": [
+          "22",
+          "333",
+          "66",
+          "66"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4356"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      470,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000183",
+    "original_path": "data/raw/images/flickr30k_000183.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000183_face_0",
+        "face_path": "data/processed/faces/flickr30k_000183_face_0.jpg",
+        "bbox": [
+          "222",
+          "155",
+          "36",
+          "36"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1296"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000192",
+    "original_path": "data/raw/images/flickr30k_000192.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000192_face_0",
+        "face_path": "data/processed/faces/flickr30k_000192_face_0.jpg",
+        "bbox": [
+          "242",
+          "295",
+          "70",
+          "70"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4900"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000198",
+    "original_path": "data/raw/images/flickr30k_000198.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000200",
+    "original_path": "data/raw/images/flickr30k_000200.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000197",
+    "original_path": "data/raw/images/flickr30k_000197.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000197_face_0",
+        "face_path": "data/processed/faces/flickr30k_000197_face_0.jpg",
+        "bbox": [
+          "199",
+          "414",
+          "34",
+          "34"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1156"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      345,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000203",
+    "original_path": "data/raw/images/flickr30k_000203.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000205",
+    "original_path": "data/raw/images/flickr30k_000205.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      332,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000207",
+    "original_path": "data/raw/images/flickr30k_000207.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      333,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000204",
+    "original_path": "data/raw/images/flickr30k_000204.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000204_face_0",
+        "face_path": "data/processed/faces/flickr30k_000204_face_0.jpg",
+        "bbox": [
+          "317",
+          "161",
+          "69",
+          "69"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4761"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000209",
+    "original_path": "data/raw/images/flickr30k_000209.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000201",
+    "original_path": "data/raw/images/flickr30k_000201.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000201_face_0",
+        "face_path": "data/processed/faces/flickr30k_000201_face_0.jpg",
+        "bbox": [
+          "200",
+          "224",
+          "56",
+          "56"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "3136"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      500,
+      364,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000202",
+    "original_path": "data/raw/images/flickr30k_000202.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000210",
+    "original_path": "data/raw/images/flickr30k_000210.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      426,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000211",
+    "original_path": "data/raw/images/flickr30k_000211.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      332,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000199",
+    "original_path": "data/raw/images/flickr30k_000199.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000199_face_0",
+        "face_path": "data/processed/faces/flickr30k_000199_face_0.jpg",
+        "bbox": [
+          "364",
+          "77",
+          "30",
+          "30"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "900"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000206",
+    "original_path": "data/raw/images/flickr30k_000206.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000212",
+    "original_path": "data/raw/images/flickr30k_000212.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000208",
+    "original_path": "data/raw/images/flickr30k_000208.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      332,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000214",
+    "original_path": "data/raw/images/flickr30k_000214.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      375,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000216",
+    "original_path": "data/raw/images/flickr30k_000216.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000213",
+    "original_path": "data/raw/images/flickr30k_000213.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      371,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000219",
+    "original_path": "data/raw/images/flickr30k_000219.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000219_face_0",
+        "face_path": "data/processed/faces/flickr30k_000219_face_0.jpg",
+        "bbox": [
+          "234",
+          "100",
+          "92",
+          "92"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "8464"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000215",
+    "original_path": "data/raw/images/flickr30k_000215.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000217",
+    "original_path": "data/raw/images/flickr30k_000217.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000217_face_0",
+        "face_path": "data/processed/faces/flickr30k_000217_face_0.jpg",
+        "bbox": [
+          "312",
+          "76",
+          "106",
+          "106"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "11236"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      354,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000220",
+    "original_path": "data/raw/images/flickr30k_000220.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000227",
+    "original_path": "data/raw/images/flickr30k_000227.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000228",
+    "original_path": "data/raw/images/flickr30k_000228.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000230",
+    "original_path": "data/raw/images/flickr30k_000230.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000230_face_0",
+        "face_path": "data/processed/faces/flickr30k_000230_face_0.jpg",
+        "bbox": [
+          "70",
+          "100",
+          "51",
+          "51"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "2601"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      375,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000232",
+    "original_path": "data/raw/images/flickr30k_000232.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000218",
+    "original_path": "data/raw/images/flickr30k_000218.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      500,
+      374,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000221",
+    "original_path": "data/raw/images/flickr30k_000221.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000221_face_0",
+        "face_path": "data/processed/faces/flickr30k_000221_face_0.jpg",
+        "bbox": [
+          "38",
+          "139",
+          "64",
+          "64"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "4096"
+      }
+    ],
+    "total_faces": 1,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000224",
+    "original_path": "data/raw/images/flickr30k_000224.jpg",
+    "status": "success",
+    "faces": [
+      {
+        "face_id": "flickr30k_000224_face_0",
+        "face_path": "data/processed/faces/flickr30k_000224_face_0.jpg",
+        "bbox": [
+          "53",
+          "176",
+          "37",
+          "37"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "1369"
+      },
+      {
+        "face_id": "flickr30k_000224_face_1",
+        "face_path": "data/processed/faces/flickr30k_000224_face_1.jpg",
+        "bbox": [
+          "255",
+          "73",
+          "26",
+          "26"
+        ],
+        "confidence": 0.9,
+        "landmarks": null,
+        "area": "676"
+      }
+    ],
+    "total_faces": 2,
+    "image_shape": [
+      333,
+      500,
+      3
+    ]
+  },
+  {
+    "photo_id": "flickr30k_000229",
+    "original_path": "data/raw/images/flickr30k_000229.jpg",
+    "status": "no_faces",
+    "faces": [],
+    "total_faces": 0,
+    "image_shape": [
+      334,
+      500,
+      3
+    ]
+  }
+]

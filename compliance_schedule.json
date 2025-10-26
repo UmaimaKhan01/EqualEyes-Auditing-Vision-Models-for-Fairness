@@ -1,0 +1,18 @@
+{
+  "frequency": "weekly",
+  "check_types": [
+    "bias_analysis",
+    "risk_assessment",
+    "compliance_report"
+  ],
+  "alert_thresholds": {
+    "bias_score": 0.5,
+    "risk_level": "high"
+  },
+  "notification_emails": [],
+  "export_formats": [
+    "json",
+    "html",
+    "csv"
+  ]
+}

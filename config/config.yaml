@@ -1,0 +1,50 @@
+data_collection:
+  min_records: 200
+  max_records: 200
+  dataset_name: "nlphuji/flickr30k"
+  dataset_split: "test"
+  filter_for_people: true
+  people_keywords: ["person", "people", "man", "woman", "boy", "girl", "child", "adult", "human", "face", "portrait", "group", "crowd", "family"]
+  max_workers: 4
+  image_formats: [".jpg", ".jpeg", ".png"]
+  min_image_size: [224, 224]
+
+models:
+  gender_detection:
+    model_name: "rizvandwiki/gender-classification-2"
+    confidence_threshold: 0.7
+  
+  face_detection:
+    model_name: "opencv_dnn"
+    min_face_size: 30
+    confidence_threshold: 0.5
+  
+  age_estimation:
+    model_name: "nateraw/vit-age-classifier"
+    enabled: true
+
+processing:
+  batch_size: 32
+  max_workers: 4
+  image_size: 224
+  use_gpu: true
+  device: "cuda"
+
+analysis:
+  bias_metrics:
+    - "representation_ratio"
+    - "confidence_distribution" 
+    - "age_gender_intersection"
+    - "demographic_distribution"
+  
+  visualization:
+    - "gender_distribution_pie"
+    - "confidence_histogram"
+    - "age_gender_heatmap"
+    - "bias_metrics_dashboard"
+
+output:
+  save_processed_images: true
+  save_annotations: true
+  generate_report: true
+  export_formats: ["csv", "json", "html"]

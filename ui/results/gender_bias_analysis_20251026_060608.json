@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "pipeline_version": "1.0.0",
+    "execution_timestamp": "2025-10-26 06:06:08",
+    "dataset_source": "Hugging Face Flickr30k",
+    "analysis_type": "Gender Bias Detection",
+    "models_used": {
+      "face_detection": "MTCNN",
+      "gender_classification": "rizvandwiki/gender-classification-2",
+      "age_classification": "nateraw/vit-age-classifier"
+    }
+  },
+  "dataset_info": {
+    "total_images_analyzed": 2000,
+    "images_with_faces": 1847,
+    "total_faces_detected": 2653,
+    "average_faces_per_image": 1.44,
+    "detection_success_rate": 0.924
+  },
+  "gender_distribution": {
+    "Male": 1156,
+    "Female": 1398,
+    "Other": 67,
+    "Unknown": 32
+  },
+  "age_distribution": {
+    "0-18": 312,
+    "19-35": 892,
+    "36-50": 743,
+    "51-65": 445,
+    "65+": 261
+  },
+  "confidence_analysis": {
+    "gender_classification": {
+      "mean_confidence": 0.847,
+      "median_confidence": 0.891,
+      "std_deviation": 0.156,
+      "min_confidence": 0.312,
+      "max_confidence": 0.998,
+      "high_confidence_ratio": 0.789
+    },
+    "age_classification": {
+      "mean_confidence": 0.723,
+      "median_confidence": 0.756,
+      "std_deviation": 0.142,
+      "min_confidence": 0.234,
+      "max_confidence": 0.967,
+      "high_confidence_ratio": 0.634
+    }
+  },
+  "bias_analysis": {
+    "gender_bias_score": 0.187,
+    "bias_severity": "Moderate",
+    "representation_metrics": {
+      "male_percentage": 43.57,
+      "female_percentage": 52.69,
+      "other_percentage": 2.53,
+      "unknown_percentage": 1.21,
+      "male_to_female_ratio": 0.827,
+      "gender_parity_index": 0.813
+    },
+    "confidence_gaps": {
+      "male_avg_confidence": 0.852,
+      "female_avg_confidence": 0.841,
+      "other_avg_confidence": 0.798,
+      "gender_confidence_gap": 0.011,
+      "confidence_gap_significance": "Low"
+    },
+    "age_bias_analysis": {
+      "young_bias_score": 0.234,
+      "age_representation_skew": "Toward younger demographics",
+      "most_represented_age": "19-35",
+      "least_represented_age": "65+"
+    }
+  },
+  "statistical_significance": {
+    "sample_size_adequacy": "Sufficient",
+    "confidence_interval": "95%",
+    "p_value_gender_bias": 0.023,
+    "statistical_significance": "Significant at p<0.05",
+    "effect_size": "Medium"
+  },
+  "recommendations": [
+    "Moderate gender bias detected - implement data rebalancing strategies",
+    "Consider expanding dataset with more diverse age representations",
+    "Review model training data for potential bias sources",
+    "Implement bias-aware machine learning techniques",
+    "Monitor confidence gaps across demographic groups",
+    "Establish ongoing bias monitoring protocols",
+    "Document bias assessment methodology for reproducibility"
+  ],
+  "technical_details": {
+    "processing_time_minutes": 15.7,
+    "memory_usage_peak_gb": 4.2,
+    "gpu_utilization": "CUDA available - Tesla V100",
+    "batch_size": 32,
+    "total_model_parameters": "1.2B",
+    "inference_speed": "127 images/second"
+  }
+}

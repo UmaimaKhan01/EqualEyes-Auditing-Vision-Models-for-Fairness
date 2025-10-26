@@ -1,0 +1,49 @@
+{
+  "monitoring_session": {
+    "start_time": "2025-10-26T04:34:39.587990",
+    "end_time": "2025-10-26T04:34:47.090716",
+    "duration_seconds": 7.502725601196289,
+    "total_frames": 16
+  },
+  "bias_analysis": {
+    "average_bias_score": 0.5271453812945063,
+    "max_bias_score": 0.7719248871932245,
+    "min_bias_score": 0.35771286683560977,
+    "high_bias_frames": 5,
+    "bias_trend": [
+      0.5245136658136236,
+      0.4748447492219604,
+      0.548208664585079,
+      0.6608453422198202,
+      0.45591214564438726,
+      0.5006631370696094,
+      0.35771286683560977,
+      0.6258993586813641,
+      0.3879857806437644,
+      0.44269942696155373
+    ]
+  },
+  "demographic_analysis": {
+    "gender_distribution": {
+      "female": 8,
+      "male": 8
+    },
+    "representation_ratio": {
+      "male_percentage": 50.0,
+      "female_percentage": 50.0
+    }
+  },
+  "alert_summary": {
+    "distribution": {
+      "HIGH": 5,
+      "MEDIUM": 8,
+      "LOW": 3
+    },
+    "high_alerts": 5,
+    "medium_alerts": 8,
+    "low_alerts": 3
+  },
+  "recommendations": [
+    "Frequent high-bias alerts - implement content filtering"
+  ]
+}

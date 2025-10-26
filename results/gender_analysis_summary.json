@@ -1,0 +1,33 @@
+{
+  "total_faces_analyzed": 90,
+  "successful_gender_predictions": 90,
+  "high_confidence_predictions": 82,
+  "gender_distribution": {
+    "male": 27,
+    "female": 55,
+    "total": 82,
+    "male_percentage": 32.926829268292686,
+    "female_percentage": 67.07317073170732
+  },
+  "confidence_statistics": {
+    "mean_gender_confidence": 0.9071705288357205,
+    "median_gender_confidence": 0.9797666370868683,
+    "std_gender_confidence": 0.12424822974837829,
+    "min_gender_confidence": 0.5108359456062317,
+    "max_gender_confidence": 0.9963920712471008
+  },
+  "age_analysis_enabled": true,
+  "age_analysis": {
+    "successful_predictions": 90,
+    "age_distribution": {
+      "20-29": 49,
+      "3-9": 17,
+      "30-39": 9,
+      "40-49": 5,
+      "10-19": 3,
+      "60-69": 3,
+      "0-2": 2,
+      "50-59": 2
+    }
+  }
+}
