@@ -418,8 +418,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-
-how to align this code tables properly to display in readme file 📞 Contact
+📞 Contact
 <div align="center"> <table> <tr> <td align="center" width="50%">
 
 🎓 Umaima Khan
@@ -457,6 +456,7 @@ how to align this code tables properly to display in readme file 📞 Contact
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
 
 
 
