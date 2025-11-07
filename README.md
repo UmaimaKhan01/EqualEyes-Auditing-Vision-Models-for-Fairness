@@ -419,31 +419,34 @@ We welcome contributions from the community! Here's how you can help:
 ---
 
 
-📞 Contact
-<div align="center"> <table> <tr> <td align="center" width="50%">
+## 📞 Contact
 
-🎓 Umaima Khan
-<br>
-<a href="https://github.com/UmaimaKhan01"><img src="https://img.shields.io/badge/GitHub-UmaimaKhan01-black?style=flat&logo=github"></a>
-<a href="https://linkedin.com/in/umaima-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:fn653419@ucf.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
+<div align="center">
+  <table style="border-collapse: collapse; text-align: center;">
+    <tr>
+      <td width="33%" align="center">
+        🎓 <b>Umaima Khan</b><br><br>
+        <a href="https://github.com/UmaimaKhan01"><img src="https://img.shields.io/badge/GitHub-UmaimaKhan01-black?style=flat&logo=github"></a><br>
+        <a href="https://linkedin.com/in/umaima-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a><br>
+        <a href="mailto:fn653419@ucf.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
+      </td>
 
-</td> <td align="center" width="50%">
+      <td width="33%" align="center">
+        🎓 <b>Manya Achanta</b><br><br>
+        <a href="https://github.com/manya-13"><img src="https://img.shields.io/badge/GitHub-manya--13-black?style=flat&logo=github"></a><br>
+        <a href="https://www.linkedin.com/in/manya-achanta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a><br>
+        <a href="mailto:manya.achanta@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
+      </td>
 
-🎓 Manya Achanta
-<br>
-<a href="https://github.com/manya-13"><img src="https://img.shields.io/badge/GitHub-manya--13-black?style=flat&logo=github"></a>
-<a href="https://www.linkedin.com/in/manya-achanta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:manya.achanta@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
-
-</td> <td align="center" width="50%">
-🎓 Karthika Ramasamy
-<br>
-<a href="https://github.com/ka234388"><img src="https://img.shields.io/badge/GitHub-ka234388-black?style=flat&logo=github"></a>
-<a href="https://www.linkedin.com/in/karthika-ramaswamy-02j0320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:karthika2094@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
-
-</td> </tr> </table>
+      <td width="33%" align="center">
+        🎓 <b>Karthika Ramasamy</b><br><br>
+        <a href="https://github.com/ka234388"><img src="https://img.shields.io/badge/GitHub-ka234388-black?style=flat&logo=github"></a><br>
+        <a href="https://www.linkedin.com/in/karthika-ramaswamy-02j0320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a><br>
+        <a href="mailto:karthika2094@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 🏢 Institution: [University of Central Florida]
 🔬 Project Focus: AI Fairness, Computer Vision, Machine Learning Ethics
@@ -455,6 +458,7 @@ We welcome contributions from the community! Here's how you can help:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
 
 
 
