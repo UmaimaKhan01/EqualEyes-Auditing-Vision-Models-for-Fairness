@@ -316,7 +316,7 @@ If you use EqualEyes in your research, please cite:
 @software{equaleyes2024,
   title={EqualEyes: Auditing Vision Models for Fairness},
   author={Umaima, Manya, Karthika}
-  year={2024},
+  year={2025},
   url={https://github.com/UmaimaKhan01/EqualEyes-Auditing-Vision-Models-for-Fairness},
   note={AI Fairness Auditing Pipeline}
 }
@@ -448,6 +448,7 @@ We welcome contributions from the community! Here's how you can help:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
 
 
 
