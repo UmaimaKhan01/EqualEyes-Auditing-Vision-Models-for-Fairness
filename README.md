@@ -419,7 +419,8 @@ We welcome contributions from the community! Here's how you can help:
 ---
 
 📞 Contact
-<div align="center"> <table> <tr> <td align="center" width="50%">
+<div align="center"> <table> <tr> 
+<!-- <td align="center" width="50%"> -->
 
 🎓 Umaima Khan
 <br>
@@ -456,6 +457,7 @@ We welcome contributions from the community! Here's how you can help:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
 
 
 
