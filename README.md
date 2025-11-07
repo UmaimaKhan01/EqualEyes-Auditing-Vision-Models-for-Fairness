@@ -436,6 +436,13 @@ We welcome contributions from the community! Here's how you can help:
 <a href="https://www.linkedin.com/in/manya-achanta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:manya.achanta@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
 
+
+🎓 Karthika Ramasamy
+<br>
+<a href="https://github.com/ka234388"><img src="https://img.shields.io/badge/GitHub-ka234388-black?style=flat&logo=github"></a>
+<a href="https://www.linkedin.com/in/karthika-ramaswamy-02j0320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:karthika2094@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
+
 </td> </tr> </table>
 
 🏢 Institution: [University of Central Florida]
@@ -448,6 +455,7 @@ We welcome contributions from the community! Here's how you can help:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
 
 
 
