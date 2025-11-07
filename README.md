@@ -454,33 +454,34 @@ streamlit run ui_app.py --server.port 8502
 ---
 
 
-## 📞 Contact
+📞 Contact
+<div align="center"> <table> <tr> <td align="center" width="50%">
 
-<div align="center">
+🎓 Umaima Khan
+<br>
+<a href="https://github.com/UmaimaKhan01"><img src="https://img.shields.io/badge/GitHub-UmaimaKhan01-black?style=flat&logo=github"></a>
+<a href="https://linkedin.com/in/umaima-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:fn653419@ucf.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
 
-**🎓 Umaima Khan**
+</td> <td align="center" width="50%">
 
-[![GitHub](https://img.shields.io/badge/GitHub-UmaimaKhan01-black?style=flat&logo=github)](https://github.com/UmaimaKhan01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/umaima-khan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:fn653419@ucf.edu)
+🎓 Manya Achanta
+<br>
+<a href="https://github.com/manya-13"><img src="https://img.shields.io/badge/GitHub-manya--13-black?style=flat&logo=github"></a>
+<a href="https://www.linkedin.com/in/manya-achanta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:manya.achanta@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
 
-** Manya Achanta **
-[![Github] (https://img.shields.io/badge/GitHub-UmaimaKhan01-black?style=flat&logo=github)](https://github.com/manya-13)
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manya-achanta/)
-[![Email] (https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:manya.achanta@gmail.com)
+</td> </tr> </table>
 
-**🏢 Institution**: [University of Central Florida]  
-**🔬 Project Focus**: AI Fairness, Computer Vision, Machine Learning Ethics
-
----
+🏢 Institution: [University of Central Florida]
+🔬 Project Focus: AI Fairness, Computer Vision, Machine Learning Ethics
 
 </div>
-
-<div align="center">
 
 **Together, we can build more equitable AI systems for everyone.**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
 
