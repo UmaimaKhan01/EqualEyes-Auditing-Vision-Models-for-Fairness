@@ -315,7 +315,7 @@ If you use EqualEyes in your research, please cite:
 ```bibtex
 @software{equaleyes2024,
   title={EqualEyes: Auditing Vision Models for Fairness},
-  author={Khan, Umaima},
+  author={Umaima, Manya, Karthika}
   year={2024},
   url={https://github.com/UmaimaKhan01/EqualEyes-Auditing-Vision-Models-for-Fairness},
   note={AI Fairness Auditing Pipeline}
@@ -402,41 +402,6 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 🆘 Troubleshooting
-
-### ❓ **Common Issues**
-
-<details>
-<summary><strong>🐍 ImportError: No module named 'transformers'</strong></summary>
-```bash
-# Solution: Install missing dependencies
-pip install transformers torch torchvision --break-system-packages
-```
-</details>
-
-<details>
-<summary><strong>🔥 CUDA out of memory</strong></summary>
-```bash
-# Solution: Reduce batch size in config.yaml
-face_detection:
-  batch_size: 8  # Reduce from 32
-
-gender_classification:
-  batch_size: 16  # Reduce from 64
-```
-</details>
-
-<details>
-<summary><strong>📊 Streamlit app won't start</strong></summary>
-```bash
-# Solution: Check port availability and permissions
-netstat -tlnp | grep 8501
-streamlit run ui_app.py --server.port 8502
-```
-</details>
-
-
-
 ## 🏆 Acknowledgments
 
 - **Hugging Face** - Pre-trained models and datasets infrastructure
@@ -483,5 +448,6 @@ streamlit run ui_app.py --server.port 8502
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
 
 
