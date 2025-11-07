@@ -453,19 +453,6 @@ streamlit run ui_app.py --server.port 8502
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### 🔓 **MIT License Summary**
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution  
-- ✅ Private use
-- ❌ Warranty
-- ❌ Liability
-
----
 
 ## 📞 Contact
 
@@ -476,6 +463,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![GitHub](https://img.shields.io/badge/GitHub-UmaimaKhan01-black?style=flat&logo=github)](https://github.com/UmaimaKhan01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/umaima-khan)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:fn653419@ucf.edu)
+
+** Manya Achanta **
+[![Github] (https://img.shields.io/badge/GitHub-UmaimaKhan01-black?style=flat&logo=github)](https://github.com/manya-13)
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manya-achanta/)
+[![Email] (https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:manya.achanta@gmail.com)
 
 **🏢 Institution**: [University of Central Florida]  
 **🔬 Project Focus**: AI Fairness, Computer Vision, Machine Learning Ethics
@@ -491,3 +483,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
