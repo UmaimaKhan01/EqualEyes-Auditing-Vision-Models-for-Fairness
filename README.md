@@ -1,4 +1,4 @@
-# 🔍 EqualEyes: Auditing Vision Models for Fairness
+# 🔍 EqualEyes: Auditing Vision Models for Fairness:
 
 <div align="center">
 
@@ -457,6 +457,7 @@ We welcome contributions from the community! Here's how you can help:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UmaimaKhan01.EqualEyes-Auditing-Vision-Models-for-Fairness)
 
 </div>
+
 
 
 
